@@ -37,7 +37,7 @@ ipch
 Debug
 *suo
 .Rhistory
-*.dll
+#*.dll
 *i386
 *x64
 *dump
